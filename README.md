@@ -27,7 +27,7 @@ Este cronograma aplica para el curso intensivo de 9 días del PES 2025-2026:
 - Jueves 18: 
   - Estructuras de datos: listas, tuplas.
   - Manipulación de cadenas de texto
-  - Algoritmos de *guess and check*
+  <!-- - Algoritmos de *guess and check* -->
 - Viernes 19: 
   - Estructuras de datos: diccionarios y recursión.
   - Técnicas de depuración.
