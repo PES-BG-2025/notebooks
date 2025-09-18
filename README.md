@@ -22,17 +22,17 @@ Este cronograma aplica para el curso intensivo de 9 días del PES 2025-2026:
 - Miércoles 17: 
   - Entradas y salidas vía línea de comandos
   - Estructuras condicionales e iterativas
-  - Manipulación de cadenas de texto
-  - Algoritmos de *guess and check*
-  - **Taller por la tarde:** Git básico y GitHub. 
-  - **Entrega de tarea 1**. 
-- Jueves 18: 
   - Funciones, *scope* (alcance) y *namespaces*
+  - **Taller por la tarde:** Git básico y GitHub. 
+- Jueves 18: 
   - Estructuras de datos: listas, tuplas.
+  - Manipulación de cadenas de texto
+  <!-- - Algoritmos de *guess and check* -->
 - Viernes 19: 
   - Estructuras de datos: diccionarios y recursión.
   - Técnicas de depuración.
   - **Taller por la tarde:** Tutorías para el proyecto. 
+  - **Entrega de tarea 1**. 
   - **Entrega de tarea 2**. 
 - Lunes 22: 
   - NumPy
