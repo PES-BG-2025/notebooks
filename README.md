@@ -40,19 +40,18 @@ Este cronograma aplica para el curso intensivo de 9 días del PES 2025-2026:
   - **Entrega del proyecto personal**  
 - Martes 23: 
   - Programación orientada a objetos. 
-  - Herencia.
   - **Taller por la tarde:** Revisión de propuestas para proyecto grupal. 
-  - **Entrega de tarea 3**. 
 - Miércoles 24: 
-  - Complejidad computacional. 
+  - Herencia.
   - Pandas
   - **Taller por la tarde:** Publicación de reportes con Quarto. 
 - Jueves 25:
+  - Complejidad computacional. 
   - *Algoritmos de ordenamiento*. 
   - *Libre: e.g. statsmodels*
-  - **Entrega de tarea 4**. 
+  - **Entrega de tarea 3**. 
   - **Taller por la tarde:** Tutorías para el proyecto. 
 - Viernes 26: 
-  - Examen corto: Creación y manejo de objetos.  
+  - Examen final: Creación y manejo de objetos, algoritmos iterativos básicos. 
   - **Presentaciones de proyectos grupales**. 
   - **Taller por la tarde:** Inmersión de cervezas artesanales. 
