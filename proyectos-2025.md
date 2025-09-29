@@ -9,7 +9,8 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Librerías y paquetes: pytorch (redes neuronales), librerías de compresión (zstd) y python-chess (lectura de tableros).
 - Algoritmos interesantes/especiales: Compresión aritmética, predicción con redes neuronales, aplicación de "big data". 
 - Entregables: 
-  - Análisis de la evolución de la complejidad de una partida. 
+  - Análisis de la evolución de la complejidad de una partida.
+- [Repositorio - Chess Position Complexity](https://github.com/PES-BG-2025/proj-y-chesspositioncomplexity.git)
 
 
 ## Caja para café El Economista
@@ -22,7 +23,7 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Algoritmos interesantes/especiales: Manejo de inventarios y mostrar una aplicación de escritorio en Python. 
 - Entregables:
   - La aplicación de escritorio. 
-
+- [Repositorio - Caja para café El Economista](https://github.com/PES-BG-2025/proj-y-cafe-el-economista.git)
 
 ## Excel 1600 (1600 hora de salida)
 
@@ -31,7 +32,8 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Librerías paquetes: xlsx 
 - Algoritmos interesantes/especiales: Verificación de errores, cambios porcentuales entre variables para seguimiento periódico.
 - Entregables:
-  - Programa que ejecuta operaciones indicadas.  
+  - Programa que ejecuta operaciones indicadas.
+- [Repositorio - Excel 1600](https://github.com/PES-BG-2025/proj-y-excel1600.git)  
 
 
 ## Messi Code
@@ -43,6 +45,7 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Algoritmos interesantes/especiales: Simulación de Monte Carlo con 1 y 2 jugadores
 - Entregables:
   - El programa de simulación y gráficas.
+- [Repositorio - Messi Code ](https://github.com/PES-BG-2025/proj-y-messicode.git)  
 
 
 ## Análisis de estrategias en juegos repetidos por Monte Carlo
@@ -52,7 +55,8 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Librerías paquetes: -
 - Algoritmos interesantes/especiales: Simulación y análisis en teoría de juegos. Métodos de simulación de Monte Carlo. 
 - Entregables
-  - Cuaderno con los códigos y análisis gráfico de los jugadores. 
+  - Cuaderno con los códigos y análisis gráfico de los jugadores.
+- [Repositorio - Estrategias en juegos ](https://github.com/PES-BG-2025/proj-y-fernando-ortiz.git)  
 
 
 ## Cross-validation analysis
@@ -66,6 +70,7 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Algoritmos interesantes/especiales: validación cruzada iterativa (k-folds)
 - Entregables:
   - Cuaderno Jupyter con la carga de datos, ajuste de los modelos, proceso de validación cruzada y comparación entre modelos.
+- [Repositorio - Cross Validation](https://github.com/PES-BG-2025/proj-y-validacion_cruzada.git)
 
 ## Gasto Controller 5000
 
@@ -75,6 +80,7 @@ Resumen de los proyectos grupales de la clase en 2025.
 - Algoritmos interesantes/especiales: Crear una aplicación web con Python. 
 - Entregables:
   - Script para correr la aplicación, base de datos. 
+- [Repositorio - Gasto Controller 5000](https://github.com/PES-BG-2025/proj-y-gasto-controller-5000.git)
 
 ## PIB2Code
 
@@ -86,7 +92,8 @@ Automatización de encadenamiento del PIB y tablero en streamlit.
 - Algoritmos interesantes/especiales: Automatización de archivos de Excel, visualización de datos.
 - Entregables:
   - Script para procesamiento de datos 
-  - Script que corre el tablero con los datos procesados. 
+  - Script que corre el tablero con los datos procesados.
+- [Repositorio - PIB2Code](https://github.com/PES-BG-2025/proj-y-pib2code.git) 
 
 ## FREDpy
 
@@ -99,7 +106,7 @@ Consulta de datos de la FRED y tablero en Dash.
 - Entregables:
   - Script de ETL 
   - Tablero interactivo
-
+- [Repositorio - FREDpy](https://github.com/PES-BG-2025/proj-y-fredpy.git)
 
 
 ## Econ Dynamics
@@ -112,4 +119,5 @@ Cuadernos más interactivos en Jupyter y cuadernos como base para papers en econ
 - Algoritmos interesantes/especiales: - 
 - Entregables:
   - Dos cuadernos (uno que muestre ejemplo de investigación y otro con el modelo interactivo) 
+- [Repositorio - Econodynamics](https://github.com/PES-BG-2025/proj-y-econdynamics.git)
 
